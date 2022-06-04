@@ -1,0 +1,68 @@
+{
+    "venues": [
+        
+        {
+            "name": "bar1",
+            "description": "SEZ Berlin",
+            "geometry": [
+                19.46070078940153, -99.16321948674869
+            ]
+        },
+        {
+            "name": "bar2",
+            "description": "Huxley's Neue Welt",
+            "geometry": [
+                19.435611417683454, -99.1354961779918
+            ]
+        },
+        {
+            "name": "bar3",
+            "description": "Mensch Meier",
+            "geometry": [
+                19.427355357090324, -99.16476444010691
+            ]
+        },
+        {
+            "name": "restaurante1",
+            "description": "Zur Klappe",
+            "geometry": [
+                19.43836166569864, -99.15369228511773
+            ]
+        },
+        {
+            "name": "restaurante2",
+            "description": "OHM",
+            "geometry": [
+                19.437390402687708, -99.13137630813848
+            ]
+        },
+        {
+            "name": "restaurante3",
+            "description": "M-BIA",
+            "geometry": [
+                19.413592644552313, -99.15506557600874
+            ]
+        },
+        {
+            "name": "biblioteca1",
+            "description": "Monster Ronson's Ichiban Karaoke",
+            "geometry": [
+                19.450257487158765, -99.14699749484376
+            ]
+        },
+        {
+            "name": "biblioteca2",
+            "description": "Marooush Restaurant - Lounge - Bar - Club",
+            "geometry": [
+                19.41529092084613, -99.17188839224369
+            ]
+        },
+        {
+            "name": "biblioteca3",
+            "description": "Kater Blau",
+            "geometry": [
+                19.42824237871686, -99.1313763109583
+            ]
+        }
+    ]
+}

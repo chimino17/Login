@@ -1,0 +1,19 @@
+.leaflet-container {
+  width: 100vw;
+  height: 80vh;
+}
+
+.Search1 {
+  text-align: center;
+}
+
+.text-search {
+  color: #597a6b;
+}
+
+.inputBonito1 {
+  border-radius: 4px;
+  width: 400px;
+  height: 20px;
+  border: 1px solid #597a6b;
+}
